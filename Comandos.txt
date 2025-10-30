@@ -1,0 +1,8 @@
+Para activar el entorno virtual de python:
+.\venv\Scripts\Activate
+
+Para instalar las librerias necesarias
+pip install -r requirements.txt
+
+Para copiar las librerias del proyecto a un txt
+pip freeze > requirements.txt
